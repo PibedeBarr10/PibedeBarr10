@@ -4,7 +4,6 @@
 
 ## Trochę o mnie:
 - Jestem studentem 4 roku informatyki na SGGW
-- 
 <!-- - Jestem w trakcie pisania pracy inżynierskiej
 - Szukam także pierwszej pracy jako junior front-end developer-->
 
