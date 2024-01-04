@@ -23,9 +23,11 @@ Here are some of my favorite projects:
 
 - Bachelor's degree in Information Technology, Warsaw University of Life Sciences, 2021
 
+<!--
 ## 📈 GitHub Stats
 
 !GitHub Stats
+-->
 
 ## 🌐 Social Links
 
